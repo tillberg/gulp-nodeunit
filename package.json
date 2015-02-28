@@ -19,6 +19,6 @@
   "homepage": "https://github.com/kjvalencik/gulp-nodeunit",
   "dependencies": {
     "through2": "~0.4.1",
-    "nodeunit": "~0.8.6"
+    "nodeunit": "git://github.com/tillberg/nodeunit.git#master"
   }
 }
